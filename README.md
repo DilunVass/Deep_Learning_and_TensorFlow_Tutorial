@@ -37,3 +37,21 @@ Going to cover,
 
 * Saving a model 
 * Loading a model
+
+# Section 03
+## Convolution Neural Networks and Computer Vision with TensorFlow
+
+Going to cover:
+* Getting a dataset to work
+* Architecture of convolution neural network
+* A quick end-to-end example
+* Steps in modelling for binary image classification with CNNs
+    * Becoming one with the data
+    * Preparing data for modelling
+    * Creating a CNN model
+    * Fitting a model
+    * Evaluating a model
+    * Improving a model
+    * Making a prdiction with trained model
+* Steps in modelling for multi-class image clasfication with CNNs
+* Same as above (With different dataset)
